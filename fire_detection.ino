@@ -1,5 +1,4 @@
 #include <LiquidCrystal_I2C.h>
-
 // Pin Definitions
 #define smoke_sensor A0
 #define fire_sensor 8
